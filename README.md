@@ -22,11 +22,17 @@ The following project guidelines were provided:
 
 The page displays a 'portfolio' style of the projects via Bootstrap and personalised HTML and CSS files. 
 
-The mock-up webpage has been recreated by making use of columns. For example, col-md-1 has a width of 8.33%, col-md-2 has a width of 16.66% while col-md-3 has a width of 25% and so on, up to col-md-12 with a width of 100% of the viewport.
+The mock-up webpage has been recreated by making use of columns. For example, col-md-1 has a width of 8.33%, col-md-2 has a width of 16.66% while col-md-3 has a width of 25% and so on, up to col-md-12 with a width of 100% of the viewport. The image below details columns within style.css
 
-A number of media queries have been created which display content at different viewports. These breakpoints were selected by viewing the webpage and from there deciding where they are necessary for both smaller and larger viewport widths.
+![columns](https://cloud.githubusercontent.com/assets/25575132/26055273/8470f6c0-39b3-11e7-90a7-eac288102e18.png)
 
-Modals have also been implemented, which are a part of Bootstrap's responsive design. These modals provide users with more information about each project.
+A number of media queries have been created which display content at different viewports. These breakpoints were selected by viewing the webpage and from there deciding where they are necessary for both smaller and larger viewport widths. The image below details media queries within style.css
+
+![mediaqueries](https://cloud.githubusercontent.com/assets/25575132/26055268/7a4fa970-39b3-11e7-850e-0496d0f8a8f8.png)
+
+Modals have also been implemented, which are a part of Bootstrap's responsive design. These modals provide users with more information about each project. The image below details one of the modals, for the Item Catalog Project, which is a part of Bootstrap functionality. 
+
+![modal](https://cloud.githubusercontent.com/assets/25575132/26055243/4fb17aa4-39b3-11e7-9de0-14dc4fea9700.png)
 
 
 <h1> SETUP </h1>
