@@ -37,7 +37,7 @@ Modals have also been implemented, which are a part of Bootstrap's responsive de
 
 <h1> SETUP </h1>
 
-Download the files in this git repository, and place them in a directory folder with the same strucuture as follows:
+Download the files in this git repository, and place them in a directory folder with the same structure. 
 
 
 <h1> RUNNING THE PROGRAM </h1>
